@@ -1,2 +1,3 @@
-# hello-world
-my first git project
+# hello-worold
+this is the edited readme
+
